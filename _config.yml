@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
+title: Jiya's Page
 description: An easy to use blogging platform with support for Jupyter Notebooks.
-github_username: fastai
+github_username: jiya_sav
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpages"
+github_repo: "jiya"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -39,8 +39,8 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter:
+    github: jiya_sav
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -58,7 +58,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: UA-57531313-5
+google_analytics: 
 
 exclude:
   - docker-compose.yml
